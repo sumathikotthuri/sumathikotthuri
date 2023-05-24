@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sumathikotthuri
 - 👀 I’m interested in all backend technologies...
-- 🌱 I’m currently exploring Kafka, AWS , Open AI
+- 🌱 I’m currently exploring Open AI
 - 💞️ I’m looking to collaborate on any backend technolgies...
 - 📫 How to reach me - Email me at kotthuri.sumathi@gmail.com
 
