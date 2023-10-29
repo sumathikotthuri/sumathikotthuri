@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sumathikotthuri
 - 👀 I’m interested in all backend technologies...
-- 🌱 I’m currently exploring Open AI
-- 💞️ I’m looking to collaborate on any backend technolgies...
+- 🌱 I’m currently exploring AI/ML Technologies
+- 💞️ I’m looking to collaborate on any backend technologies...
 - 📫 How to reach me - Email me at kotthuri.sumathi@gmail.com
 
 <!---
